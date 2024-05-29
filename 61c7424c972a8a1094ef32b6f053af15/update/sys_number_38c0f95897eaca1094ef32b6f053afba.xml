@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1138634_safety_issue">x_1138634_safety_issue</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SAFT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-29 13:55:48</sys_created_on>
+        <sys_id>38c0f95897eaca1094ef32b6f053afba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAFT</sys_name>
+        <sys_package display_value="Safety" source="x_1138634_safety">61c7424c972a8a1094ef32b6f053af15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">61c7424c972a8a1094ef32b6f053af15</sys_scope>
+        <sys_update_name>sys_number_38c0f95897eaca1094ef32b6f053afba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-29 13:55:48</sys_updated_on>
+    </sys_number>
+</record_update>

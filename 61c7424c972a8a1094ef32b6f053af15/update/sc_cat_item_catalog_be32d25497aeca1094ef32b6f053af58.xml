@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Report a Safety Issue">18e97d54972eca1094ef32b6f053afe8</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-29 16:22:01</sys_created_on>
+        <sys_id>be32d25497aeca1094ef32b6f053af58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Report a Safety Issue</sys_name>
+        <sys_package display_value="Safety" source="x_1138634_safety">61c7424c972a8a1094ef32b6f053af15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">61c7424c972a8a1094ef32b6f053af15</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_be32d25497aeca1094ef32b6f053af58</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-29 16:22:01</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
